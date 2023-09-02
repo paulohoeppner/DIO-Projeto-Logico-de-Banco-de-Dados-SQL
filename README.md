@@ -72,4 +72,4 @@ Obs: As regras do projeto, Construa um Projeto Lógico de Banco de Dados do Zero
 - Construa um Projeto Lógico de Banco de Dados do Zero.
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e a professora [Juliana Mascarenhas](https://github.com/julianazanelatto) por compatilhar seu conhecimento. 
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e a professora [Juliana Mascarenhas](https://github.com/julianazanelatto) por compartilhar seu conhecimento. 
